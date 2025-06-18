@@ -32,5 +32,12 @@ Dades del test amb transformacions i escalades com el train. També amb feature 
 ['Age', 'TB', 'Alkphos', 'Sgot', 'ALB', 'AR', 'BilRatio', 'Female']
 
 
+DADES DEL 3r PREPROCESSING
 
+preprocess_train_v3.csv
+Dades del train amb transformacions, outlier treatment i feature selection.
+['Age', 'ALB', 'AR', 'IBRatio', 'AST_ALT_Ratio', 'LogIB', 'LogAlkphos', 'LogSgpt', 'LogSgot', 'Female', 'Target']
 
+preprocess_test_v3.csv
+Dades del test amb transformacions, outlier treatment i feature selection.
+['Age', 'ALB', 'AR', 'IBRatio', 'AST_ALT_Ratio', 'LogIB', 'LogAlkphos', 'LogSgpt', 'LogSgot', 'Female']
