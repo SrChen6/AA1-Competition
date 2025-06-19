@@ -41,3 +41,13 @@ Dades del train amb transformacions, outlier treatment i feature selection.
 preprocess_test_v3.csv
 Dades del test amb transformacions, outlier treatment i feature selection.
 ['Age', 'ALB', 'AR', 'IBRatio', 'AST_ALT_Ratio', 'LogIB', 'LogAlkphos', 'LogSgpt', 'LogSgot', 'Female']
+
+DADES DEL 4t PREPROCESSING
+
+preprocess_train_v4.csv
+Dades del train amb transformacions, outlier treatment i feature selection.
+['Age', 'ALB', 'AR', 'DBRatio', 'ALBIScore', 'Glob', 'LogTB', 'LogAlkphos', 'LogSgpt', 'LogSgot', 'Female', 'Target']
+
+preprocess_test_v4.csv
+Dades del test amb transformacions, outlier treatment i feature selection.
+['Age', 'ALB', 'AR', 'DBRatio', 'ALBIScore', 'Glob', 'LogTB', 'LogAlkphos', 'LogSgpt', 'LogSgot', 'Female']
