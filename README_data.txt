@@ -46,8 +46,8 @@ DADES DEL 4t PREPROCESSING
 
 preprocess_train_v4.csv
 Dades del train amb transformacions, outlier treatment i feature selection.
-['Age', 'ALB', 'AR', 'DBRatio', 'ALBIScore', 'Glob', 'LogTB', 'LogAlkphos', 'LogSgpt', 'LogSgot', 'Female', 'Target']
+['Age', 'DBRatio', 'ALBIScore', 'Glob', 'LogTB', 'LogAlkphos', 'LogSgpt', 'LogSgot', 'Target']
 
 preprocess_test_v4.csv
 Dades del test amb transformacions, outlier treatment i feature selection.
-['Age', 'ALB', 'AR', 'DBRatio', 'ALBIScore', 'Glob', 'LogTB', 'LogAlkphos', 'LogSgpt', 'LogSgot', 'Female']
+['Age', 'DBRatio', 'ALBIScore', 'Glob', 'LogTB', 'LogAlkphos', 'LogSgpt', 'LogSgot']
